@@ -17,11 +17,13 @@
     "@types/node": "file:../node_modules/@types/node",
     "@types/react": "file:../node_modules/@types/react",
     "@types/react-dom": "file:../node_modules/@types/react-dom",
+    "antd": "^4.15.3",
     "react": "file:../node_modules/react",
+    "react-antd-formutil": "^1.1.13",
     "react-dom": "file:../node_modules/react-dom",
+    "react-formutil-union": "file:..",
     "react-scripts": "file:../node_modules/react-scripts",
-    "typescript": "file:../node_modules/typescript",
-    "react-formutil-union": "file:.."
+    "typescript": "file:../node_modules/typescript"
   },
   "devDependencies": {
     "@babel/plugin-syntax-object-rest-spread": "^7.8.3"

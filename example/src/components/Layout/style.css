@@ -1,0 +1,12 @@
+.layout {
+  /* min-width: 1200px; */
+  display: flex;
+}
+
+.layout .sider {
+  width: 200px;
+}
+
+.layout .content {
+  flex: 1;
+}
